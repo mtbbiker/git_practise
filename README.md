@@ -76,5 +76,14 @@ First set your Branch to Track the Remote Changes
 1. Set the Branch : ```git branch --set-upstream-to=origin/development```
 2. Pull code ```git pull```
 3. Push Your changes ```git push```
-4. Make a change
+4. Make a change, add, commit and Push
+
+Create a Pull Request to Merge your changes.
+
+1. Click on the ```Create a Pull Request```
+2. You have the Option to now Delete your Branch. It is recommended to keep if development are not completed yet.
+
+Pull all The changes so that the latest version of your code is kept on your local repo
+
+```git pull origin master```
 
