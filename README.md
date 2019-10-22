@@ -71,3 +71,10 @@ To push the current branch and set the remote as upstream, use
 
 ### Exercise 4: Merge your Branch to the master
 
+First set your Branch to Track the Remote Changes
+
+1. Set the Branch : ```git branch --set-upstream-to=origin/development```
+2. Pull code ```git pull```
+3. Push Your changes ```git push```
+4. Make a change
+
