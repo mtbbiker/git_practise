@@ -1,0 +1,6 @@
+Notes:
+---------------------------------------------------------------------------------------------------------------------------------
+This file is used for making changes and see the effect of a, Clone, Branching, Forking, Pull Request and see how we Merge change
+
+How to Use:
+Create a new Line that Start with your name. Then add a few lines of Text/Code.
