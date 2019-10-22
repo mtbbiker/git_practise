@@ -59,5 +59,15 @@ no changes added to commit (use "git add" and/or "git commit -a")
 7. Commit your code: ```git commit -m 'My new change'
 8. Push your changes: ```git push```  
 
+If you have not set the Upstream you will get a message like
+```
+eugene@atlanta:~/Private/FTC/git_practise$ git push
+fatal: The current branch development has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin development
+```
+9. Set the upstream Branch: ```git push --set-upstream origin development```, Then push again
+
 ### Exercise 4: Merge your Branch to the master
 
